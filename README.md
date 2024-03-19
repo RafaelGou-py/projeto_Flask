@@ -5,11 +5,11 @@
 
 ### Tecnologia Utilizadas 📟
 - Python
+- HTML
+- CSS
 - Flask
 - Render
 - Psycopg2
 - Requests
-- HTML
-- CSS
 
-> Status: Em desenvolvimento 🧬
+> Status: Preparando Atualizações 🧬
